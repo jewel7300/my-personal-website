@@ -23,7 +23,7 @@ body{
 	margin: 205px 0 0 50px;
 }
 .text-highlight {
-	font-size: 60px;
+	font-size: 70px;
 	color: #EC4C7A;
 	font-weight: bolder;
 }
@@ -41,4 +41,19 @@ p{
 }
 img {
 	width:100%;
+}
+.biography-area{
+    height: 875px;
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+#biography-area-left {
+	padding: 98px 13px 0 209px;
+}
+#biography-area-right {
+	padding: 207px 0px 0px 95px;
+	margin-left: 66px;
+}
+#bio-title{
+    font-size: 50px;
 }
