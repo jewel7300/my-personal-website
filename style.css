@@ -8,19 +8,27 @@ body{
     background-repeat: no-repeat;
     height: 1073px;    
 }
-.half-wdith {
+#title-black{
+    color: black;
+    font-size: 40px;
+}
+.half-width {
 	width: 40%;
 	float: left;
-	padding: 404px 0px 5px 210px;
 }
-p .text-highlight{
-    font-size: 50px;
-    color:#EC4C7A;
+#header-area-left {
+	margin: 355px 53px 0px 300px;
+}
+#header-area-right {}
+p .text-highlight {
+	font-size: 50px;
+	color: #EC4C7A;
+	font-weight: bolder;
 }
 p{
     color: dimgray;
 }
-.button-color {
+.button-color{
 	text-decoration: none;
 	background-color: #EC4C7A;
 	color: white;
@@ -30,6 +38,6 @@ p{
 	font-weight: bolder;
 }
 img {
-	width: 38%;
-	padding: 111px 0px 0px 50px;
+	width:90%;
+	
 }
