@@ -5,9 +5,31 @@ body{
 }
 .header-area{
     background-image: url(images/header-bg.png);
-    height: 1073px;
+    background-repeat: no-repeat;
+    height: 1073px;    
 }
-.half-wdith{
-    width: 40%;
-    border: 1px solid green;
+.half-wdith {
+	width: 40%;
+	float: left;
+	padding: 404px 0px 5px 210px;
+}
+p .text-highlight{
+    font-size: 50px;
+    color:#EC4C7A;
+}
+p{
+    color: dimgray;
+}
+.button-color {
+	text-decoration: none;
+	background-color: #EC4C7A;
+	color: white;
+	padding: 9px 20px;
+	border-radius: 4px;
+	font-size: 20px;
+	font-weight: bolder;
+}
+img {
+	width: 38%;
+	padding: 111px 0px 0px 50px;
 }
