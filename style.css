@@ -71,8 +71,26 @@ img {
 	margin-left: 120px;
 }
 .client-feedback{
-	height: 1197px;
 	background-image: url(images/footer-bg.png);
 	background-repeat: no-repeat;
+	text-align: center;
+}
+.text-black {
+	color: black;
+}
+.leave-me-message {
+	margin: 0 350px 0 350px;
+	border-radius: 8px;
+	background: linear-gradient(180deg,#EC4F91,#EC4C75);
+	padding: 30px;
+}
+.text-white{
+	color: white;
+}
+.line-color{
+	color: white;
+}
+
+footer{
 	text-align: center;
 }
