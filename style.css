@@ -17,10 +17,10 @@ body{
 	float: left;
 }
 #header-area-left {
-	margin: 298px 0px 0px 300px;
+	margin: 350px 0px 0px 257px;
 }
 #header-area-right {
-	margin: 205px 0 0 50px;
+	margin: 209px 0px 0px 61px;
 }
 .text-highlight {
 	font-size: 70px;
@@ -54,6 +54,25 @@ img {
 	padding: 207px 0px 0px 95px;
 	margin-left: 66px;
 }
-#bio-title{
+.title{
     font-size: 50px;
+}
+.my-latest-work-area{
+	height: 1162px;
+	background-image: url(images/latest-work-bg.png);
+	background-repeat: no-repeat;
+}
+#latest-work-title{
+	font-size: 50px;
+}
+.img-area {
+	width: 25%;
+	float: left;
+	margin-left: 120px;
+}
+.client-feedback{
+	height: 1197px;
+	background-image: url(images/footer-bg.png);
+	background-repeat: no-repeat;
+	text-align: center;
 }
