@@ -17,10 +17,10 @@ body{
 	float: left;
 }
 #header-area-left {
-	margin: 350px 0px 0px 257px;
+	margin: 100px 0px 0px 194px;
 }
 #header-area-right {
-	margin: 209px 0px 0px 61px;
+	margin: 180px 0px 0px 51px;
 }
 .text-highlight {
 	font-size: 70px;
@@ -57,18 +57,15 @@ img {
 .title{
     font-size: 50px;
 }
-.my-latest-work-area{
-	height: 1162px;
-	background-image: url(images/latest-work-bg.png);
-	background-repeat: no-repeat;
-}
-#latest-work-title{
-	font-size: 50px;
+.my-latest-work-area {
+	text-align: center;
+	font-size: 30px;
+	height: 770px;
 }
 .img-area {
 	width: 25%;
 	float: left;
-	margin-left: 120px;
+	margin-left: 80px;
 }
 .client-feedback{
 	background-image: url(images/footer-bg.png);
