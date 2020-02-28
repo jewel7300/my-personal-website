@@ -17,10 +17,10 @@ body{
 	float: left;
 }
 #header-area-left {
-	margin: 350px 0px 0px 257px;
+	margin: 100px 0px 0px 194px;
 }
 #header-area-right {
-	margin: 209px 0px 0px 61px;
+	margin: 180px 0px 0px 51px;
 }
 .text-highlight {
 	font-size: 70px;
@@ -48,27 +48,28 @@ img {
     background-repeat: no-repeat;
 }
 #biography-area-left {
-	padding: 98px 13px 0 209px;
+	padding: 94px 13px 0 120px;
 }
 #biography-area-right {
-	padding: 207px 0px 0px 95px;
-	margin-left: 66px;
+	padding: 55px 0px 0px 15px;
+	margin-left: 130px;
 }
-.title{
-    font-size: 50px;
+#bio-title {
+	font-weight: normal;
+	font-size: xx-large;
 }
-.my-latest-work-area{
-	height: 1162px;
-	background-image: url(images/latest-work-bg.png);
-	background-repeat: no-repeat;
+.my-latest-work-area {
+	text-align: center;
+	height: 770px;
 }
-#latest-work-title{
-	font-size: 50px;
+.heading-title {
+	font-size: 45px;
+	font-weight: normal;
 }
 .img-area {
 	width: 25%;
 	float: left;
-	margin-left: 120px;
+	margin-left: 80px;
 }
 .client-feedback{
 	background-image: url(images/footer-bg.png);
